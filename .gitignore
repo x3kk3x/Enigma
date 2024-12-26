@@ -1,0 +1,22 @@
+# Ignore .env files
+.env
+
+# Ignore node_modules directory
+node_modules/
+
+# Optional: Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore npm-debug files
+npm-debug.log*
+
+# Ignore package-lock.json (optional, but often used to avoid locking dependency versions)
+package-lock.json
+
+# Ignore build and temporary files
+/dist/
+/build/
+/temp/
